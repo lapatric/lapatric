@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patrick!
-- 👀 I’m interested in blockchain.
-- 🌱 I’m currently learning full stack blockchain development around EVM networks and more. 
+- 👀 I’m interested in AI and blockchain.
+- 🌱 I’m currently expanding my knowledge in Deep Reinforcement Learning and full stack blockchain development. 
 - 💞️ I’m looking to collaborate on exciting projects within my field of interest.
 
 <!---
