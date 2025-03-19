@@ -1,1 +1,1 @@
-👋 Hi there, I’m Patrick! I'm passionate about building practical applications with AI and Web3 technologies and always keen to collaborate on exciting new projects that push the boundaries. Always learning, always building. Let's build the future together!
+Here for all things Solidity and Web3 – always learning.
